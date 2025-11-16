@@ -171,8 +171,6 @@ apt install -y virglrenderer-android
 
 apt install -y vulkan-loader-android
 
-apt install -y manim
-
 apt install -y z3
 
 apt install -y prover9
