@@ -151,3 +151,170 @@ apt install -y x2gothinclient-minidesktop
 apt install -y x2gothinclient-smartcardrules
 
 apt install -y x2gothinclient-usbmount
+apt install -y libatompub-perl
+
+apt install -y libcatalyst-action-renderview-perl
+
+apt install -y libcatalyst-action-rest-perl
+
+apt install -y libcatalyst-action-serialize-data-serializer-perl
+
+apt install -y libcatalyst-actionrole-acl-perl
+
+apt install -y libcatalyst-actionrole-checktrailingslash-perl
+
+apt install -y libcatalyst-actionrole-requiressl-perl
+
+apt install -y libcatalyst-authentication-credential-authen-simple-perl
+
+apt install -y libcatalyst-authentication-credential-http-perl
+
+apt install -y libcatalyst-authentication-store-dbix-class-perl
+
+apt install -y libcatalyst-authentication-store-htpasswd-perl
+
+apt install -y libcatalyst-component-instancepercontext-perl
+
+apt install -y libcatalyst-controller-actionrole-perl
+
+apt install -y libcatalyst-controller-formbuilder-perl
+
+apt install -y libcatalyst-controller-html-formfu-perl
+
+apt install -y libcatalyst-devel-perl
+
+apt install -y libcatalyst-dispatchtype-regex-perl
+
+apt install -y libcatalyst-engine-apache-perl
+
+apt install -y libcatalyst-log-log4perl-perl
+
+apt install -y libcatalyst-manual-perl
+
+apt install -y libcatalyst-model-adaptor-perl
+
+apt install -y libcatalyst-model-cdbi-crud-perl
+
+apt install -y libcatalyst-model-cdbi-perl
+
+apt install -y libcatalyst-model-dbi-perl
+
+apt install -y libcatalyst-model-dbic-schema-perl
+
+apt install -y libcatalyst-modules-extra-perl
+
+apt install -y libcatalyst-modules-perl
+
+apt install -y libcatalyst-perl
+
+apt install -y libcatalyst-plugin-authentication-credential-openid-perl
+
+apt install -y libcatalyst-plugin-authentication-perl
+
+apt install -y libcatalyst-plugin-authorization-acl-perl
+
+apt install -y libcatalyst-plugin-authorization-roles-perl
+
+apt install -y libcatalyst-plugin-cache-perl
+
+apt install -y libcatalyst-plugin-cache-store-fastmmap-perl
+
+apt install -y libcatalyst-plugin-captcha-perl
+
+apt install -y libcatalyst-plugin-compress-perl
+
+apt install -y libcatalyst-plugin-configloader-perl
+
+apt install -y libcatalyst-plugin-customerrormessage-perl
+
+apt install -y libcatalyst-plugin-fillinform-perl
+
+apt install -y libcatalyst-plugin-i18n-perl
+
+apt install -y libcatalyst-plugin-log-dispatch-perl
+
+apt install -y libcatalyst-plugin-redirect-perl
+
+apt install -y libcatalyst-plugin-scheduler-perl
+
+apt install -y libcatalyst-plugin-session-perl
+
+apt install -y libcatalyst-plugin-session-state-cookie-perl
+
+apt install -y libcatalyst-plugin-session-store-cache-perl
+
+apt install -y libcatalyst-plugin-session-store-dbi-perl
+
+apt install -y libcatalyst-plugin-session-store-dbic-perl
+
+apt install -y libcatalyst-plugin-session-store-delegate-perl
+
+apt install -y libcatalyst-plugin-session-store-fastmmap-perl
+
+apt install -y libcatalyst-plugin-session-store-file-perl
+
+apt install -y libcatalyst-plugin-session-store-redis-perl
+
+apt install -y libcatalyst-plugin-setenv-perl
+
+apt install -y libcatalyst-plugin-smarturi-perl
+
+apt install -y libcatalyst-plugin-stacktrace-perl
+
+apt install -y libcatalyst-plugin-static-simple-perl
+
+apt install -y libcatalyst-plugin-subrequest-perl
+
+apt install -y libcatalyst-plugin-unicode-perl
+
+apt install -y libcatalyst-view-component-subinclude-perl
+
+apt install -y libcatalyst-view-csv-perl
+
+apt install -y libcatalyst-view-email-perl
+
+apt install -y libcatalyst-view-excel-template-plus-perl
+
+apt install -y libcatalyst-view-gd-perl
+
+apt install -y libcatalyst-view-json-perl
+
+apt install -y libcatalyst-view-mason-perl
+
+apt install -y libcatalyst-view-pdf-reuse-perl
+
+apt install -y libcatalyst-view-petal-perl
+
+apt install -y libcatalyst-view-tt-perl
+
+apt install -y libcatalystx-component-traits-perl
+
+apt install -y libcatalystx-injectcomponent-perl
+
+apt install -y libcatalystx-leakchecker-perl
+
+apt install -y libcatalystx-simplelogin-perl
+
+apt install -y libcgi-application-plugin-actiondispatch-perl
+
+apt install -y libconfig-zomg-perl
+
+apt install -y libdbix-class-htmlwidget-perl
+
+apt install -y libfcgi-perl
+
+apt install -y libhash-merge-simple-perl
+
+apt install -y libhtml-prototype-perl
+
+apt install -y libkiokux-model-perl
+
+apt install -y libmason-perl
+
+apt install -y libmodule-cpanfile-perl
+
+apt install -y libtest-mojibake-perl
+
+apt install -y libtest-www-mechanize-catalyst-perl
+
+apt install -y libweb-simple-perl
