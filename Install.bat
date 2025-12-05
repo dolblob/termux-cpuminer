@@ -976,8 +976,6 @@ apt install -y bc
 apt install -y bcal
 apt install -y bchunk
 apt install -y bdftopcf
-apt install -y  xdg-menu
-apt install -y  xdg-utils
 apt install -y  xdotool
 apt install -y  xeyes
 apt install -y  xf86-input-void
